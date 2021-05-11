@@ -1,0 +1,22 @@
+.leVeloBlanc{
+
+    background-image: url('Image/tandemblanc.png');
+
+}
+
+.leVeloBleu{
+    background-image: url('Image/tandembleu.png');
+}
+
+.transition{
+
+    flex: 1;
+    height: 50vh;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
